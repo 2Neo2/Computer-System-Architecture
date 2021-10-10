@@ -1,0 +1,3 @@
+/Users/ivandoronin/CLionProjects/AVSHomework1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ivandoronin/CLionProjects/AVSHomework1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ivandoronin/CLionProjects/AVSHomework1/cmake-build-debug/CMakeFiles/AVSHomework1.dir

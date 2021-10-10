@@ -1,0 +1,27 @@
+Filled container:
+Container contains 8 elements.
+0: It is Shrub: name = Lsmhtkpfro, month (JANUARY = 0,
+        FEBRUARY = 1,
+        MARCH = 2,
+        APRIL = 3,
+        MAY = 4,
+        JULE = 5,
+        JULY = 6,
+        AUGUST = 7,
+        SEPTEMBER = 8,
+        OCTOBER = 9,
+        NOVEMBER = 10,
+        DECEMBER = 11): 9
+1: It is Tree: name = Aweyekgruj, age = 892
+2: It is Tree: name = Ptuuoajmda, age = 92
+3: It is Tree: name = Ryzuqvrnjr, age = 899
+4: It is Tree: name = Bjxiapkekd, age = 401
+5: It is Tree: name = Lzngrjstyf, age = 68
+6: It is FLower: name = Aasoclbzdh, type of flower (DOMESTIC = 0,
+        GARDEN = 1,
+        WILD = 2,
+        ARTIFICIAL = 3): 5
+7: It is FLower: name = Rhnovqmxxj, type of flower (DOMESTIC = 0,
+        GARDEN = 1,
+        WILD = 2,
+        ARTIFICIAL = 3): 11

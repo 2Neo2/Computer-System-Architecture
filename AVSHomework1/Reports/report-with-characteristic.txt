@@ -1,0 +1,18 @@
+Отчет с характеристиками
+
+constants.h (188 байт)
+container.h (1024 байта)
+flower.h (951 байт)
+plant.h (788 байт)
+randomGenerator.h (360 байт)
+shrub.h (1024 байта)
+tree.h (815 байт)
+
+container.cpp (3072 байта)
+flower.cpp (2048 байт)
+plant.cpp (3072 байта)
+randomGenerator.cpp (516 байт)
+shrub.cpp (2048 байт)
+tree.cpp (1024 байта)
+
+Всего: 16930 байт
