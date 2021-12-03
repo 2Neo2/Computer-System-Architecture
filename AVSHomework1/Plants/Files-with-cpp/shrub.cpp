@@ -31,7 +31,7 @@ void out(shrub &someShrub, std::ofstream &outFStream) {
                "        SEPTEMBER = 8,\n"
                "        OCTOBER = 9,\n"
                "        NOVEMBER = 10,\n"
-               "        DECEMBER = 11): " << static_cast<int>(someShrub.floweringMonthOfShrubs);
+               "        DECEMBER = 11): " << static_cast<int>(someShrub.floweringMonthOfShrubs) << "\ncomparison parameter: " << comparisonParameter(someShrub);
 }
 
 // Параматр для сравнения.
