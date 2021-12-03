@@ -27,6 +27,7 @@ int main(int argc, char *argv[]) {
         errMessage0();
         return 1;
     }
+    clock_t start = clock();
     std::cout << "Start\n";
 
     container container;
@@ -66,6 +67,9 @@ int main(int argc, char *argv[]) {
     out(container, outFStream2);
 
     clear(container);
-    std::cout << "Stop\n";
+    clock_t end = clock();
+    double seconds = (double)(end - start) / CLOCKS_PER_SEC;
+    std::cout << "Time " << seconds;
+    std::cout << "\nStop\n";
     return 0;
 }
