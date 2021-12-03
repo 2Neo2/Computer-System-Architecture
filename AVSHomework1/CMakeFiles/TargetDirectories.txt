@@ -1,0 +1,3 @@
+/Users/ivandoronin/Downloads/Computer-System-Architecture-main/AVSHomework1/CMakeFiles/AVSHomework1.dir
+/Users/ivandoronin/Downloads/Computer-System-Architecture-main/AVSHomework1/CMakeFiles/edit_cache.dir
+/Users/ivandoronin/Downloads/Computer-System-Architecture-main/AVSHomework1/CMakeFiles/rebuild_cache.dir
