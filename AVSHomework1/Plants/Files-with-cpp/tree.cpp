@@ -18,7 +18,7 @@ void inRnd(tree &someTree) {
 // Вывод параметров дерева в форматируемый поток.
 void out(tree &someTree, std::ofstream &outFStream) {
     outFStream << "It is Tree: name = " << someTree.name <<
-         ", age = " << someTree.age;
+         ", age = " << someTree.age << "\ncomparison parameter: " << comparisonParameter(someTree);
 }
 
 // Параматр для сравнения.
