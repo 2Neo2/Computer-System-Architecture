@@ -22,7 +22,7 @@ void out(flower &someFlower, std::ofstream &outFStream) {
                ", type of flower (DOMESTIC = 0,\n"
                "        GARDEN = 1,\n"
                "        WILD = 2,\n"
-               "        ARTIFICIAL = 3): " << static_cast<int>(someFlower.typeFlower);
+               "        ARTIFICIAL = 3): " << static_cast<int>(someFlower.typeFlower) << "\ncomparison parameter: " << comparisonParameter(someFlower);
 }
 
 // Частное от деления числа гласных букв в названии на общую длину названия.
