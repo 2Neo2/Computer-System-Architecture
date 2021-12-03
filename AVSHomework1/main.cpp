@@ -6,7 +6,7 @@
 
 #include "Plants/Files-with-h/container.h"
 
-void errMessage1() {
+void errMessage0() {
     std::cout << "incorrect command line!\n"
                  "  Waited:\n"
                  "     command -f infile outfile01 outfile02\n"
@@ -24,7 +24,7 @@ void errMessage2() {
 
 int main(int argc, char *argv[]) {
     if (argc != 5) {
-        errMessage1();
+        errMessage0();
         return 1;
     }
     std::cout << "Start\n";
