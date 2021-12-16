@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ivandoronin/CLionProjects/SCAHomework5/customer.cpp
+customer.h
+/Users/ivandoronin/CLionProjects/SCAHomework5/customer.h
+
+/Users/ivandoronin/CLionProjects/SCAHomework5/customer.h
+iostream
+/Users/ivandoronin/CLionProjects/SCAHomework5/iostream
+
+/Users/ivandoronin/CLionProjects/SCAHomework5/main.cpp
+iostream
+-
+vector
+-
+store.h
+/Users/ivandoronin/CLionProjects/SCAHomework5/store.h
+thread
+-
+
+/Users/ivandoronin/CLionProjects/SCAHomework5/store.cpp
+store.h
+/Users/ivandoronin/CLionProjects/SCAHomework5/store.h
+
+/Users/ivandoronin/CLionProjects/SCAHomework5/store.h
+iostream
+/Users/ivandoronin/CLionProjects/SCAHomework5/iostream
+queue
+/Users/ivandoronin/CLionProjects/SCAHomework5/queue
+customer.h
+/Users/ivandoronin/CLionProjects/SCAHomework5/customer.h
+mutex
+-
+chrono
+-
+

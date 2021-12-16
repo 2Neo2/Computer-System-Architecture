@@ -1,0 +1,67 @@
+Stores:
+It is Store:
+name LrfkqyuqfjKxyqvnrtysFrzrmzlygf.
+It is Store:
+name KxyqvnrtysFrzrmzlygf.
+It is Store:
+name Frzrmzlygf.
+It is Customer:
+name: Eulqfpdbhl.
+balance: 1597 
+It is Customer:
+name: Dqrrcrwdnx.
+balance: 2172 
+It is Customer:
+name: Uoqqeklait.
+balance: 2208 
+It is Customer:
+name: Dphcspijth.
+balance: 1524 
+It is Customer:
+name: Sfyfvladzp.
+balance: 2365 
+It is Customer:
+name: Fudkklrwqa.
+balance: 1695 
+It is Customer:
+name: Zmixrpifef.
+balance: 2216 
+It is Customer:
+name: Eclhbvfukb.
+balance: 1897 
+It is Customer:
+name: Eqfqojwtwo.
+balance: 2468 
+It is Customer:
+name: Ileeztxwjl.
+balance: 2462 
+It is Customer:
+name: Ngbqqmbxqc.
+balance: 2090 
+It is Customer:
+name: Ptkhhqrqdw.
+balance: 1598 
+It is Customer:
+name: Cayssyoqcj.
+balance: 2313 
+It is Customer:
+name: Mwufbdfxud.
+balance: 2238 
+It is Customer:
+name: Hiftakczvh.
+balance: 1747 
+It is Customer:
+name: Ybloetswcr.
+balance: 2034 
+It is Customer:
+name: Hpxprbsshs.
+balance: 2491 
+It is Customer:
+name: Xdfilebxwb.
+balance: 1877 
+It is Customer:
+name: Toayaxzfbj.
+balance: 2056 
+It is Customer:
+name: Krxirimqpz.
+balance: 2269 
