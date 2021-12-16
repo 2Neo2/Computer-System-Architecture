@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/constants.h
+
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/plant.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/stdio.h
+constants.h
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/constants.h
+rnd.h
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/rnd.h
+
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/rnd.h
+
+/Users/ivandoronin/CLionProjects/SCAHW4/source_files/plant.c
+../header_files/plant.h
+/Users/ivandoronin/CLionProjects/SCAHW4/header_files/plant.h
+
